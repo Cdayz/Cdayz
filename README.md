@@ -3,9 +3,9 @@
 #### Cloud of tags for HRs...
 
 * Programming Languages: Python, Go, C, Shell.
-* Databases: MySQL, MongoDB, PostgreSQL, SQLite.
-* Deployment tech: Docker, docker-compose, Ansible, Gitlab CI/CD
-* Misc: Linux, TCP/IP, E-Commerce
+* Databases: MongoDB, PostgreSQL, SQLite, Kafka, Redis.
+* Deployment tech: Docker, docker-compose, Ansible, Gitlab CI/CD, K8s, Helm
+* Misc: Linux, E-Commerce
 
 #### Contact info
 
