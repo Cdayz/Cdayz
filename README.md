@@ -2,8 +2,8 @@
 
 #### Cloud of tags for HRs...
 
-* Programming Languages: Python, Go, C, Shell.
-* Databases: MongoDB, PostgreSQL, SQLite, Kafka, Redis.
+* Programming Languages: Go, Python, C, Shell.
+* Databases & Queues: PostgreSQL, MongoDB, Redis, Kafka, RabbitMQ.
 * Deployment tech: Docker, docker-compose, Ansible, Gitlab CI/CD, K8s, Helm
 * Misc: Linux, E-Commerce
 
