@@ -10,4 +10,4 @@
 #### Contact info
 
 * [Email](mailto:cdayz@yandex.ru)
-* [Telegram](https://t.me/cdayz)
+* [Telegram](https://t.me/nstomchik)
